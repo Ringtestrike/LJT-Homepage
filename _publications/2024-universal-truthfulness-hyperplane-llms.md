@@ -3,7 +3,7 @@ title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
 category: conferences
 permalink: /publications/universal-truthfulness-hyperplane/
-date: 2024-01-01
+date: "2024"
 year: 2024
 display_order: 3
 venue: "EMNLP"
